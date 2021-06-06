@@ -1,7 +1,7 @@
 # fazztrack-crud
 Fazztrack Level 3 - Tugas 10
 
-## Hasil Interface Soal no 6b
+## Screenshot layar
 Home :
 ![Home Interface](ss1.png "Home")
 
