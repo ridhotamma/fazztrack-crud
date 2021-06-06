@@ -6,7 +6,7 @@ teknologi yang digunakan :
   - Bootstrap
   - Visual Studio Code
 
-#[LIVE SITE](http://fazztrack.epizy.com/index.php)
+[LIVE SITE](http://fazztrack.epizy.com/index.php)
 
 ## Screenshot layar
 Home :
